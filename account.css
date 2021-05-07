@@ -49,9 +49,14 @@ body {
   
  
 
+.card {
+   margin-top: 200px;
   
-  
-
+   margin-left: -140px;
+}
+.card-body {
+  text-align: left;
+}
   
   
 
